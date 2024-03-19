@@ -20,8 +20,8 @@ def haversine(lat1, lon1, lat2, lon2):
     return distance * 0.621371
 
 def find_restaurants(radius, lat, lng, keywords):
-    api_key = 'AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw'
-    gmaps = googlemaps.Client(key='AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw')
+    api_key = 'API KEY HERE'
+    gmaps = googlemaps.Client(key='API KEY HERE')
     all_restaurants_info = []
 
     radius = float(radius)
