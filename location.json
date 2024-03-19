@@ -1,0 +1,567 @@
+[
+    {
+        "place_id": "ChIJIapUBQNDkYARRt5Q2M7cK20",
+        "name": "H & W Drive-In",
+        "distance": 5.632727667854705,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJZhTQWjH6Htv5aDgovVKBYjNyeVcMVI6sqhTUSJojz4QC-r4ziIDPEcp5waRNOHaa322fJ-2i9D_qlI9oOhKXuTBo88_jR0mDt6ZhQZwRCgdNJ4PD83Udcm7o3_UyRLDfH8higF9mFL0Jc7GZwmLPqxG7O-itUi3wAuxlOh4-Kif5RM&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "121 W 16th St, Merced"
+    },
+    {
+        "place_id": "ChIJFZ6LyMdDkYARvrp3i3UhgZk",
+        "name": "Houa Khong 2",
+        "distance": 3.54524537466127,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJYtdQXUNC5GfUpTSk1jD7uPPJ4Hs1CY7Q_pYAr5MHmS8QBtN5Ym6afm8aqgesnPaHKgmrncNn8xClD2xFDElfrQXXxITLsjVptAJMbrvgKSKwO5dyNLRFrl5MyciRRBsNptTnt1EMs2jsS6LaK5z_nM7FP0zr5Jh-0yTduWTja1P8AY&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3518 G St, Merced"
+    },
+    {
+        "place_id": "ChIJozThRXRDkYAREsCKLqDnHFE",
+        "name": "Teriyaki Don",
+        "distance": 3.146320507106038,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJYXqOsW5PJiw66RsjmLcgwTP-yPDi1Y8YqNhsabGLolLK5ns_Iu80SaZXr9wDzfNSsOi_DaihES-Q9S4NmFSNSWwfqG_ib-Birp442hBMcS0yjnwIsKUrwacyDXipmroiTMutmZBNEkjaPPwqkl8kn1VnLWi9U_FTZTn3bmDeexglx3&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "755 E Yosemite Ave H, Merced"
+    },
+    {
+        "place_id": "ChIJS1f46gxDkYARLkWL6jQRStk",
+        "name": "Table 59",
+        "distance": 5.304700790555658,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJbc-5ub_ZsqktZSZewJ7M3YIbE_wVqalrhAW618OiF5IL9Qk432B3hJGsnp2VImhn-ULsIHynvGIcEiWFXrB30XdhE8-xoh8dSSqNzXQlEglY2UGYWydRZXU0BwXovFqC7Gsc33UovhvzE8-UvQsMMIjIkX1kg3CspUz8ZqpA3iPDOq&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3360 N State Hwy 59 ste H, Merced"
+    },
+    {
+        "place_id": "ChIJiVhgJLBDkYAR0_bhxl2RUIY",
+        "name": "A&W Restaurant",
+        "distance": 4.324886950007982,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJaWrFWOd4kt_ViNNeNGQYItYDq7Isi6m4AL5cOtivhSHKF4XCcJFGfGeKLSi5NSWedIVLfKsz3rdEZl-wRzixDwcWc9-_FxxMpV4_B4wYksa3fj0I48Qy8sFYI8RrOsGWy_0JDpSGa3Wv8YsuR6hkfQ-CK6ox5jlg_zZNNfaI3Z5koj&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "180 W Olive Ave, Merced"
+    },
+    {
+        "place_id": "ChIJuwBM1xJrkYARR0SfnYcaKY8",
+        "name": "Isabella's Bar & Grill",
+        "distance": 9.52174264392298,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJa88btvZN7RQ2NyuvJsn6nJOWO0Sk9EZOFuXUPvM44qi8wnAdzi6j_CsjB0MY5R8pR9c42Xh9X-AaBfJWnDW7aX2slBrS_kvA3nD6u8fzm1NmewcpT0SnZJhpBqk4dIp-s88KU2ddxpZCZeWzc-wHGhvIRgCH6XcRAyEV_-UbPIUKi8&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "2811 Shaffer Rd, Atwater"
+    },
+    {
+        "place_id": "ChIJjVHtWXlrkYARX0f8fEJR7L0",
+        "name": "Peel and Eat Shrimp",
+        "distance": 10.520007889432692,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJZliyCMxijm2zfLaXSurdgOJU_AZ8R4IDfRsG6x6OIFP9G4mLSTeC4aJUDEiqDT7QRqgtfhgYFRb3W30ZXRtUhmpnlRw_XnpCw7UV8LesOsLBY9J0gYQjr9VVc7clVXoBbsrjtpcG77pJBRZ9SsXS4va2NgZfvnsv_jnrIJOuJK-Z5q&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1301 N Winton Way, Atwater"
+    },
+    {
+        "place_id": "ChIJr60dD4JrkYARW-IR1hRM31s",
+        "name": "Almond Tree Restaurant",
+        "distance": 10.556012154878525,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJZYTDd8JpL1i4Y5he_LepEh-mc-rYb6UORpga2CWZrQBj-q5uP-M1Eq1xEJNMAT00SV33fJPUkKVN9MZqL6M5D9Yax4tdh0iI3aJXd3fsYCWAum70z1j1F6TQj3Fp7f-f3aCLHT730Tx-CBTsYgRIOy2JxAQB2dGvpZ9ZgJiPNVp0rQ&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1490 Sycamore Ave, Atwater"
+    },
+    {
+        "place_id": "ChIJz8Y_Dq5rkYARR_taAVyDFYs",
+        "name": "Atwater Sushi",
+        "distance": 10.33559538933,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJZ8w1Qd7UR8NdPCjjgAOO0AgFuB_dXfdH6-B87zbBouFNRK8BFEsiH6YtOa0_43J2jrmVAq2jz321VrqSqMPcqD-DpPpXvHCv2aZrDIaNedhgTvyF9YneRss5ZXuYV9zihPm8tttI3IMSxm56fIoDaLY2YkpKCKTn2jUSRHXTZupBxo&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1601 Bellevue Rd, Atwater"
+    },
+    {
+        "place_id": "ChIJt0tTUptrkYARYBa8OY9Q_l8",
+        "name": "Applebee's Grill + Bar",
+        "distance": 10.321594539442493,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJZtRMEqzeDdcalMK_RzWKlxFR9mN1uBdAiYeqVkZj9aN6ZZMHH944NT2HnasbZ410yJ9QwkftbHaDmtSstbK81WVfhdxZguKdTk9vtiApwdL5ga0XUsB9YeUkJrbYlEFskbfknOTUxvE-JcEPp1LB_dUeUSZpT7adVjNPyLB-rMK0oc&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "820 Commerce Ave, Atwater"
+    },
+    {
+        "place_id": "ChIJ38wwVAY8kYARuGXSsbR2hLg",
+        "name": "M&D Taco Truck",
+        "distance": 10.534479249980507,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJYL8uAQcaY7AiL6vgkMx2p1s6j7V7KFQ6sdwsz9LOGME-QrOzNb_LubITdnV4xM8jtf3oB_xr38Ik6PU6BkdxS2VgUg-Dg8rg2BSwNB4ww3Am0Qz--YCLHDzGTId1IyAPPsmFzG0X2xclhCn0jPQp9msW239xsSDAy0RwI2CUUXXy2a&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "CA-59, Snelling"
+    },
+    {
+        "place_id": "ChIJf-S2gKtDkYARa2NxFELLpoo",
+        "name": "Mr Pho",
+        "distance": 5.301266834950885,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJZ-kIqPdk23-qdB4ditx4Z6PZ65ho4QBTGXnRKRWnvhWxR2LXUa1nwh8CwKi071_zCBuTlIvtZapo_mCh-yeTLn8Zlsgd91hu-pJMohewkyWlvvdzx4HbOYQ1wv-wziGW_q5XCamj03HMZlLxg5MAkCBgXoNg2jjf8Rb431tHArcLmg&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3360 N State Hwy 59 Suite D, Merced"
+    },
+    {
+        "place_id": "ChIJe3DMF_9CkYARUctH1eec2Ck",
+        "name": "Mainzer",
+        "distance": 5.641794867331298,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJbnY3AVIsZFhKjQAdwwudm15d0GK4t5qUFuR_Ul4AS4eB8axDEUk7gOF5fp1F1wjzOYKl7aMQPhsFzJWAfJF6P4JHsZm3hUols1eGoDigS1kSUWiX5fkb-KgO6FbgTgFuEcEUQlHkr3h04bJfRmDKToEp-2RrtTqbyf3ASO9YF0aBL2&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "655 W Main St, Merced"
+    },
+    {
+        "place_id": "ChIJLdNRDrJrkYARvjpyQHv4dts",
+        "name": "Mimu's Mexican Restaurant",
+        "distance": 10.346711331373687,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJbJNmYt5LVIzJiVD_XmpiV-X21FHnTPCmfbi8Tiz-jWCO68PmAVNDDtg07lJHagPHLyTeIsonxMJtpIx7qwtA-1hcmzxHP6ohi8HgoEyumg62mHXiZ5ahOAqBzQN2rzgpVocLGccJdP20xUTBl_MgVva-4BZ1jzgDElAW0MoyqpXxc1&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1617 Bellevue Rd, Atwater"
+    },
+    {
+        "place_id": "ChIJJ0uiPAJDkYAROm_4zNF8ODU",
+        "name": "Marie's M\u00e9xican Kitchen",
+        "distance": 5.580526997230961,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJazHTEn68i7tG0R_8mTR9mgplqNhLbqVtFU_0y6489J316LHGDgXXuF7QcPsy9AutVlLut3vr-kBHHyUFF2bKdS9MMHEw3cEFpvJHEWSNhHEGuRJO9dk8PzTGnOIAtfY58vuFda1zbX4WdWrqgw9nteVyHBVUdadow6Un3P9gjv2C9C&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "259 W Main St, Merced"
+    },
+    {
+        "place_id": "ChIJsTK7af5CkYAR4PWX5fGb3m4",
+        "name": "Five Ten Bistro",
+        "distance": 5.661902531380827,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJbGpqYeRmdd5HdTFFXaDClYywWkVD1-3r25kVCzlw6krP0SWAAqakOLFTQTEo8-TRCd3nIOqBQ-9EH9ZU0pdZrZg_C7H7GHJxEcdsvqoCMYp3NTFV0lt0yh88Cqv0cu2XTTscmMWZDKRhmLwrZtZUYT67It7IC8H-WuPYv1SOxLKTkH&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "510 W Main St, Merced"
+    },
+    {
+        "place_id": "ChIJ0RykNfxDkYARHB2eyz66PiE",
+        "name": "Tacos Al Mando",
+        "distance": 6.152202847446881,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJZif9Ts4W2cDH9cBt0jnHEuyx2eJgRj4nbthw6_eEQ5W-5Jr8U-1XxPZISOsGwcWbZwxWRV0yQP-Bikr9rLs9gFkyoTRa9G0ozKOJ0oFeepT7bvgHoN3yxzYK5KpdFbH6tTv3cBJJSIpxycQDMXZ6f_QtUpLyV4CpqK5ztCrBv4C2Ol&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "900 Martin Luther King Jr Way, Merced"
+    },
+    {
+        "place_id": "ChIJkxdlVKNDkYARHDMWQCqvDNI",
+        "name": "Chili's Grill & Bar",
+        "distance": 4.797606494975282,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJYv8pR7wGN0_5HSxfZ3aCrqAu9KpkZTE1eVTpOO0OrCMJmVsaeJ0EiIWMidpKMSJdsXObkYLZYjeSifDUTsM59LZhZjWUrBdBTZI5MAd-lAxio1kGzUtM8QgPYI9IOu84Gy4M_Oj1AQov0TvyNvcrhu_kerZYZILncl26BYk0L3BZsd&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1075 W Olive Ave, Merced"
+    },
+    {
+        "place_id": "ChIJ9WNpiP5CkYARcl-0DAjnSEE",
+        "name": "Fiesta M\u00e9xicana",
+        "distance": 5.721151290665889,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJZ6fyQCeBryYFW5ciB_P-E-lJdKEGVYgyYl4VMXHQJJ4PMiMIOHgKpXGH4tXUBU1c3d4x4tC6a79o2oEAWt-JmJjRIbSvRVjJnDj5IOA1VdNbl27jXITNO8lutyPVH0WQnqUc7qMji4YO50CQNC8_QsWyUwk8syaU6H1QaA6vRKSsJp&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "530 W 16th St STE E, Merced"
+    },
+    {
+        "place_id": "ChIJd9ju2LNDkYARl3qPg0Zz2MU",
+        "name": "Champion Grill Buffet",
+        "distance": 4.388497055270857,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJYtO8qEcuphdzsH1gmQI0vlg0s0OA0_keOzf1C6jTHPm5UwGeLss5dTHdlquKmG0pblpgifAIY6k5UMdMBZ6MZqFicGdCRmlQHGvPsUfrSPyGLov5LvwOnzdh3-Imb9lDr1P_UeVgP0bUP0auvCRYXNDxNntTPwn4_TmQcw2v_nULNd&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "475 W Olive Ave, Merced"
+    },
+    {
+        "place_id": "ChIJZ-UQsOJCkYARaQUGULfpprY",
+        "name": "Sam Cafe",
+        "distance": 5.970101170595195,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJZrMsm9QmyRlTGTrI-fI2Uke-pvRUanwbjvCqt8YUzwCfFxRcQ9gyauafHgutY3t8EXX_XxCvIbAQMYCc6ueM6hw58QQY6guEoeWJoWyZFbeiqQ9HGdt9_anXTf6DIjuzy6pJED--QaQjfZ9sRUB7YN1XCzE2_4jfGY8q5hJFYWoezp&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "235 W 12th St, Merced"
+    },
+    {
+        "place_id": "ChIJYQn8hf1CkYAR9z6q7SkbRoI",
+        "name": "In-N-Out Burger",
+        "distance": 5.753829270801712,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJZ7ADIUhA9sxEg5cQUu3MysOhreuvHta6HXQpkTULXSy7WelYVJd9tfP23e4ZRc9eXUPhaJ_Dx3udqXoZ6qElqYenmo4KeMF2Mtrrl9HyB8JKsQ9huFjh3SijN10IK40uerO45BNSfmwePthixylZSxZhWbmBiOmAbfMQC5UC3PTtlq&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1579 Martin Luther King Jr Way, Merced"
+    },
+    {
+        "place_id": "ChIJdaqHUXpDkYARl8CvU4ctttw",
+        "name": "Masala Express",
+        "distance": 4.476378265848367,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJbdacN7F53bod1BzpnaQoQMnjTGy2v4ZB3ql4qY_qxGPqIoBxt_6hBSXCTreFszOB-ASoMIHKQv51oNrLwHce3BvU_ZPNWrPezMFkTRBtzRd8cQq7m0lS2MXSdtmw9fgL7Na-LJ4wkgF-NHWXpexj-qUcDVsGKQ8jOCYtCQlZALxrRL&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "560 W Olive Ave, Merced"
+    },
+    {
+        "place_id": "ChIJhekHKlZCkYARXG6Z02R-VhM",
+        "name": "New Thai Cuisine",
+        "distance": 5.768381859792672,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJYOCXSYL7U0gSqpuryUqG1a34qucJfPgdqRM_kXxbuhbBqBcYsHv-njoQwxedxhVPRFbX4fBh4DRGOBDQl3QtrEATaLYw3Ramedf2kP8JGXzvyqI3Qmi7vj4ifBR3etgatXiqXLE_pJfd6qEBHTaDk7hNcf2PxQtWgL8ujeGm6mu6eY&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "909 W 16th St, Merced"
+    },
+    {
+        "place_id": "ChIJ8ckNHwJDkYAR4wg9_LZb_8A",
+        "name": "New China Cafe",
+        "distance": 5.760015589611015,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJZD2ReABtBKP_L5i0j4R03EMEtPo5FITnr4if-siza4GOu22sAe83rAreP8A1POgz6_1SlN4aH7ZPrpwAS2JY2j9O3LL_qDYJ-fa6RJPUJGiGpiOugs1YeNh4v_HKEdkxvsY24wDit4W4eik3Lo2SZB6tA5P031alza-a7HKHqx4YgG&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1002 W Main St, Merced"
+    },
+    {
+        "place_id": "ChIJiaIRAQJDkYARzAmDhISuvlk",
+        "name": "Bella Luna",
+        "distance": 5.614021167712059,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJaMFfKRTHXNtMOZ4bdLNHBUcm08R4T2KOq3pdQVC_7RxUkGvSc_yKRjKnr3T2tCnbyedj1W9dy_meMBIw4XjfjjsxoqNZ0M8J4UxCceXizG4NHteLW7vCziJ_vQnk3lIMYEq4xHs8rFWLzyGviBrBaKCXMBsfvlq5klrTY10VDrz4uH&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "350 W Main St, Merced"
+    },
+    {
+        "place_id": "ChIJ__TMGklCkYARN7ERku84x8M",
+        "name": "Merced Grand Buffet",
+        "distance": 4.92675907454515,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJYByBfSfdfFfGE-exIQsw6dcijodf5J4b50iOhq_NGKS4-2RYeiznUAiBq2rov5iq5MhBsdsvENh7JXYurMbJCUnqapJKo63DinJ8swY7GbIdxLa3VGEOZNQCXPI_-DzCkcU_geWUhrcWsANhT82vTw_fsyuTWTbmlzwEx6mpQZYP50&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1121 W Olive Ave, Merced"
+    },
+    {
+        "place_id": "ChIJC54NbYFFkYARfW1ta7ZC7cs",
+        "name": "McDonald's",
+        "distance": 6.380538315232325,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJYLqYzcN7v920fVekVyo0nmHUW66YJh11BD1yWFkkVUIxnnVukNGadZ1lJH9ry9UCfATUVb4AuKoBINf6ZkaiBFrkezGzC-awOWiKG5Ytl-piwEJDjSdeVrl-FGe7lxLbV4wV4-nt1Uj_KGtgrbR8nm5qCXvsAuiwDhLgK2MA54j0JY&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3140 Campus Pkwy, Merced"
+    },
+    {
+        "place_id": "ChIJBZjyC1dCkYARhvGRRrZCaZU",
+        "name": "Maria's Taco Shop",
+        "distance": 5.692836761373119,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJaJTJWxItrZeFki2sUGi-dAt5ZVslNKP7QPU1qhOuelVn_UmzuqmjT33N3crXkEjnFGrdnRlM25aBEHulXzyT5aXzHxiszRNNXWCwemHTTqAzNTzJsbAIV-tLjWE_aE6E6939a0o6KwnS-fGQvB6f6ruA3XDRnScpPh9Ib3sKueQCs&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1750 R St, Merced"
+    },
+    {
+        "place_id": "ChIJSeLxlwRDkYARd93V5GU0sPA",
+        "name": "The Bar B-Q Pit",
+        "distance": 5.532072409970464,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJZnMOjthgmz53bEgvDFRyo4_d_ez0kaXiiwCirRDxIK3wPROhzZnycTh_7zS6Kj8iHPu6OugTXdfe35Ta0YJSVRq218u-LgVip9dSHrMZkH0Hv_137LskU7OnxRUtvCtwmUTrOwDkRfIGCh--2tPXF8MTP8HND2ISzaKhrxwL2Oy0Ci&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1720 G St, Merced"
+    },
+    {
+        "place_id": "ChIJUTmCX7pDkYARXH0dEdiMaw8",
+        "name": "Little Caesars Pizza",
+        "distance": 4.049530219403633,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJaLRJmLhH92YCMszwdooqe_jhUcvE8nD3x-4CDrmhmODRRqfKm-QUDR1gsDsR_TLILqz2kB8bv2KEVvwYsglV-0ICqEKKreooMDt1om_D8VROyEZDJaRAcAL1_PMogvwqNUS4lHSdU09MOZDv3Ebp-4TGVMiCzjoQPbX1fbgxXBmGuI&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3250 G St B, Merced"
+    },
+    {
+        "place_id": "ChIJdwae7EtCkYARG08ufDONg1w",
+        "name": "Panera Bread",
+        "distance": 4.776860181434456,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJZX-Hbm63FDukhZFR9qduzANZxo6bfnKEqKRy-ENHDR_V8EyYvSUR15E7_GMAd7Xlres8ymk3ICKDp8Ir-2fjBluy5V97ia6pfsLBBiWTTbZEildbDYoBHK5AMTkKKpkrs6-ZFc8HtKpieFo0wpx_Mijy9200ENozsmmRfZYGvtg9eZ&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3110 R St, Merced"
+    },
+    {
+        "place_id": "ChIJ66RsgeJDkYAR-8S43v38iIU",
+        "name": "La Taquerita",
+        "distance": 5.724474124732612,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJYJXSUCa4R_MZsAsGAkebc-hSbH1cjc1RVAk6-7lRdn46kWFZFxagBixd3FxTv4YUY7T9BLaMN_c-JEfh6SPovvLlhzHfgjZZ1qUERlYe25xJUunX67WjcirZ3Fazfd8ff17IL7ELw15Zo5LgiySH8TQqvVEgMR_W4PQ2aYCuUJzsZO&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1720 R St, Merced"
+    },
+    {
+        "place_id": "ChIJKX3X3UtCkYARbGDHg-W5o_g",
+        "name": "Taqueria El Huarache",
+        "distance": 4.812434569775527,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJY_T7AyeGRAbACBEfmhJKt95Vw52b8pImt_Vkv7gMlZGYoL3Nm0HZ-phOoMLikAa_g2TbKpcBOYkUslPz4B7a33eNvnuF1YLDvsVS-GQHlJA_CjGxK5x_SY3O3g7vnpzunLa2O4931Cstgma12IE9LB1zCxlHt6erNwIar8Ie7g_zIO&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3115 R St, Merced"
+    },
+    {
+        "place_id": "ChIJywqI7EtCkYARAWdU2hki6J0",
+        "name": "Chipotle Mexican Grill",
+        "distance": 4.771598669839172,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJbmBu7TVHKDuYJQpXUJjjZUzRqJ8Xajt4aWT3Ptgy5kYj3Ti6zce7mfM1LTLf0NzAQL2ZVL-V3FvTJbq2CT4RaCIziuh9PtoNDoVMjTO8bbdNASvwD_h0hqDCS-mkzHhNgpMVGEFVmT_4Zk5FuiLavKuAUXfZ4dk9eZ5q9fJk5rzBVj&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3110 R St, Merced"
+    },
+    {
+        "place_id": "ChIJ99XnpO1CkYARlDecpFUVkrU",
+        "name": "Sammy's Taqueria",
+        "distance": 6.936056169305773,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJb82ihc5ZNuRigNKj9gXPyjxcwXS18cig3hOdF_0O1qAsuk2w_yDAKvd_1zJ4rH5FVtqDkp9FQKhW1H2zflJBUO5gFKg_QXW6ncuePR2veSnoEWlZwFlpcOEEUNo75NkTxFlqAi4jFvYAhbAAgCzQ-Ag6nSThi-R07ACLABi5nVTUlT&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "R St, Merced"
+    },
+    {
+        "place_id": "ChIJzZcDBPdCkYARhG3YfIzn0lc",
+        "name": "Tacos Y Mariscos El Guero",
+        "distance": 6.186392206847251,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJb2vudqfOoROgdr-mNjYsyjpRKTw_3y2sD3K2cQTRmOyQTDMXh0OeMd_MqupVscrdeYf2CmvJSCCqT_Re4RC7vuX37GwkBqgwT6RQCf-jrQtP5r2nJjQI4d2e_ZzE7IX69UcUk8lzqnhP-M7DO5oifYvbc-rIAakL-ghFzZ7SV5q3Hk&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1122 R St, Merced"
+    },
+    {
+        "place_id": "ChIJu3N5XQZDkYARCZuD_0cMRI4",
+        "name": "Mariana\u2019s mexican food",
+        "distance": 6.096147833161858,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJZ_T_HxTqbh5BlNsjaAKkgMp6Xkeo-7jIsgFMK9g5G6XwX1CCAW5IFXMuqidc3hh-6iepjHOH0ute-x5SP0AcVhWJpih4vVhG8yA70dn6j7yEoLPjOsytXRl1M7l-b8Gweb0439UsB_cnvQKwHewEuUTfP1__QXkF-33WT6h2kmZb8S&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1245 R St, Merced"
+    },
+    {
+        "place_id": "ChIJRwyAZu5DkYARCV40OiRJg24",
+        "name": "Tacos y mariscos sinaloa",
+        "distance": 5.9929043749506725,
+        "photo_urls": [],
+        "address": "1415 R St, Merced"
+    },
+    {
+        "place_id": "ChIJZwk4HnZDkYARIbiAlJYm0Ys",
+        "name": "Starbucks",
+        "distance": 5.7822316436735735,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJbnA1qpdK5ZJDnw-KGG1X4q1Y6EYXzNlPaAxqIyRerjoimvY_0cJ1lr8oMLXaRdasLHxb6gjqFrt9I20xkANnNcl8nCgN-7_vJoJTQD3qofAL_IwDVGXhMED6deDmTvSgO-5kbgOv4fypr1X5bQJQ4ZLC_79kZwv_-Oxh_QGESL9Gky&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1665 R St, Merced"
+    },
+    {
+        "place_id": "ChIJhZeu5FhCkYARd6D1K7Xv2e0",
+        "name": "Costco Food Court",
+        "distance": 6.016811613089466,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJZNNL4nv9WyJT4gF9AbB8qoNXkopasDIpfNF9kdT9nEPMqxWuHbIqclJmTyTel-fR2QlDy2A3NIIiPrlyOAtGbNnu9AblU-9hM1q0GjLp10WUTnfma1e6DucWZBfUVKm8y-2T3uaI76yxWV3NL8ovhGC-0heb5xk4Ank_befvJePenN&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1445 R St, Merced"
+    },
+    {
+        "place_id": "ChIJeWpUFv5CkYAR1iNBG1tkMLw",
+        "name": "J&R Tacos",
+        "distance": 5.611950962436878,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJYGPdTz3Xu1fIpOAl58iah4LNmS8BFFkDFGIh3fbxDFYQGo1GjTZp_oDHyYZNKtlCKYTHY4y4fQukqGyISWwQUZ7hrWYviYY9LAMLbiMaP5ZrwFk_i_UsN67DpFHDs_qzGT5vBKdpktPrVh5e-nYzqHc5OjiW6o9_SHXhtQgLaK0Qm7&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "437 W Main St, Merced"
+    },
+    {
+        "place_id": "ChIJNwVZxbpDkYAR5eyhIV1Bv0o",
+        "name": "Golden Bowl",
+        "distance": 4.116508321999171,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJYaXI_0EbV3F3tDEHgjwFasRcr7dY_ewehgWgSvpJNfWrJDjcc3OBPPkfSHXJx-1ZxAoZJia_osCInfw-F2FDtguxc7GL_bU9xvUz_N4i-s8uOQO-yhrrR68J2z6xD1an7DFQgrIPffs_z7iUrS0ZRUHAntpylmSeSWczkbgj0C331h&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3144 G St, Merced"
+    },
+    {
+        "place_id": "ChIJqZH_NMZDkYARfh4WMHxf75M",
+        "name": "Sushi Cuisine",
+        "distance": 3.5079778456189272,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJZYKKilj64TrQxP6VcFogbKlfsop_HhFIIwuCEt5nQvhmiHvtlaE75ff4MGq5dldkLz-CizpksPNaSA_L58OoVJwKvdO_yi0eL67AnqkAxGILQOn4Moh56-RzxqRFy4gXge-C2cRh_s_QH8cdJPUfXvsP8FuUVi9v3ACwI5Z1Y1wejU&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3544 G St, Merced"
+    },
+    {
+        "place_id": "ChIJ1SsAlqdDkYARqlGtBH_71lI",
+        "name": "China Caff",
+        "distance": 4.653968406970878,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJazN-MVjiMAHg3X0F8lijxmkq_YrZREirZ1w2je-t3HLPQsEV7_iSWKN-SW_Ud53TxG8FGDc7-1Bna-fDOH8BdxVm3hRCoYCECfHdamrTw_qg7U61gGixVlORWEZ4RnfWy75968VmNYA0ERb8LKYEZ91K3kwJK6MGR2gS37cZdeHhVU&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "2840 G St, Merced"
+    },
+    {
+        "place_id": "ChIJ93wbtrpDkYARUMVVIgLtlhw",
+        "name": "Taco Bell",
+        "distance": 4.166304232284743,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJZFF3Mo-t3rQqN4ZjVfhAztAKEHJwNh3UjezjFkP_bFn0Y84SkJeHgG3bttsir2qHYDtyBbXlD4hb-nL7zO-zC-5szhyVDaLgEJzMEGXzIdtWVxA8clSrU-Gi_UICaBPPvGDAOl-dv2O3dtRk6vrBCGpLltdGS1ez-6CZpATqbArbtf&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3140 G St, Merced"
+    },
+    {
+        "place_id": "ChIJOwISA8dDkYARSUGFXJacCKE",
+        "name": "Subway",
+        "distance": 3.4519261794461236,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJYlYIHwArcy44yN5ckaFV7AVUMK7oD1x4ZNXBd-iRft_iU67kCBtuR5O1oX5fjEhMDLmzkuO0JciesXJLpz_zUshs1rzsVM0hqe5oB3f9aNmHrmmz4IFclv2RA2LrjP4QDthRIYtlZwV3XKGbzvSY_FY_vSIb41brodBSv-wE0dlbf_&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3566 G St, Merced"
+    },
+    {
+        "place_id": "ChIJS-WXAsdDkYARp5fd-Vq1nLk",
+        "name": "Five Guys",
+        "distance": 3.4412748251063716,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJaVd7j1SxdZNI-KwqpkAjEupMJAlPrYSGCbcz9u_waO6KKX2cefsX8z5H3D0GjzfiEcuOuqCjoBRdqaqoF17UUIAyvRIq6xOgrRHQu5rOcPfLfAH2BQWBwNwHbYNFyTsywM2j3tS6nFacg4KVGGjtyelQxlI-KAwO96l78YAKyK_NyD&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3572 G St, Merced"
+    },
+    {
+        "place_id": "ChIJ26NddFdCkYARl9VacKdtU4Q",
+        "name": "Joe On The Go Caf\u00e9 & Catering",
+        "distance": 4.644697897409304,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJaneZz5x7rywmDz2SEDZLCeGFQub5ccBmFBsQBPPvQ97qzNld0JAYUAKyaLuF2l8qZVEOjXnMz63sWZQQVUeDI6VP9XhvJt9rvp0DZ4YID3Lrk_Z3HcAyZ06NMMv3PkK0p969aBDfUj02D_F8b6VlqJIfPcYkxDCEcAbmHdY72unoRW&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "2806 G St, Merced"
+    },
+    {
+        "place_id": "ChIJowCANsZDkYARVDA4xaBLND8",
+        "name": "Hong Kong",
+        "distance": 3.476702409522651,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJbFUGIKxAV5yUBzApaoLQ71SOiS7rz5HY7_6jxvr4Shjtn9BZM0YKYSp6tfFUoXxsPVBFJbMt0HkjyMm2tALHSNSNEEcl8aDuYHfU2C8DryqJLkaOiJad2rCR11NYPrwTkFOJ8lPukFyT6EV7dFNx5mLje1W7MBs3dzzSyRVvFNvqXh&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3556 G St, Merced"
+    },
+    {
+        "place_id": "ChIJ29-66adDkYARSNqGEz0qwV4",
+        "name": "Pizza Guys",
+        "distance": 4.658234374342048,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJYOCVCIpiR3wYlkbFfmYPHmhIBn5sFfQ74NQa0b3FVPb5lXC3QiakOgGxNOBAsgue6mv2Ee8mnS-gsPIU-TlEuoKIDMEk8altRuYYlVxBkOHXYZBoba4y4qzS4xeXpwCUwAKTiBlU_xMFKcNy54Zct-5vgiwmNaq6UTm4v2SL2c7OEY&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "2800 G St, Merced"
+    },
+    {
+        "place_id": "ChIJUTmCX7pDkYAR339NAzZUX5E",
+        "name": "Subway",
+        "distance": 4.039919450847623,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJbt2p_6Oh6FjXJCW4VfzVShw5i2StkUxsesEhQrbPG8gRZ3z1Os9oJSlhddJqRoUzgm-8Tn8m3jIZLkKyQvLdqNhzjq0o8YSPggT3DSMyQskkzMvW_boyoqnn7hxbxFt1Y_1DJTDh0GQp1ZTogYdtcvEJ_0--2PcEErhAJzKu5q1v0q&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3250 G St D, Merced"
+    },
+    {
+        "place_id": "ChIJ8ZSCwLpDkYARrUR9T5av1YE",
+        "name": "Pizza Factory",
+        "distance": 4.131166766356326,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJaPtziP4ajkTMVbIlViuS-J_xpzaXFQfaYLVtnA2UezKJRZd5KVO4w4i1nsnRpstGgRUekTE_-6UgrWWSTsdyYMzjDSZBxIZa7dpv3Nv9xrRuVVh87GeEWTsGMemUU9zOMI8WuT0YavBkqY92WTUACJ58SkQXf2dzGq_C9G4UVK2xjj&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3146 G St Suite 147, Merced"
+    },
+    {
+        "place_id": "ChIJUTmCX7pDkYARaxl4v3UK36I",
+        "name": "Jose's Taco Shop",
+        "distance": 4.048121908520361,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJbT3ZoDcvQUZpIQtz3nSk6Hk4Xq4M27h9jxxSw1dds_9J2aYt63h1lhZyJTouMvsBmzzGvhkoI1XoDRqiTxzlotxy_kbGiJYdPZqb9nHDOWGiWeDQntklyWTSAvb9-fPsQGPsInA9FnBCFjUUfBp39yJgsy-hpLsSvwFXFqltOyZkLq&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3250 G St, Merced"
+    },
+    {
+        "place_id": "ChIJ6RC38qVDkYARIpTjQvDY5Jw",
+        "name": "Yosemite Station",
+        "distance": 3.452147629827215,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJazLWsN6Hwyb7s2rpWIRolnf_M9GV0d8mO7MzyJqLWa5VFQXUEIQSSFxFrZTzlfaJXctCOPFYQJKWhV8uS6jBzX2gXLVcbiot5YGAlBB077hQajX2qFpeyK43yKTu3HpDQx4LT--4fDjoPutxV5GfSSBB0emZ8g_keJyGcq1p1FWR8F&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "125 E Yosemite Ave Suite A, Merced"
+    },
+    {
+        "place_id": "ChIJnfbXNMZDkYARy8Lg8QDdFq0",
+        "name": "El Asadero Taco Shop",
+        "distance": 3.5284220302611673,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJbWJD9sT9eSk0WAZm0APc4_E6BLLfw6PiaHP1SxFWCRywSjMTxjVtj5A5vcEP7IKZuoW5mAE_o3oGSVWT0xp5TV_C13jVS-jB1LuvgSW4BbLYr5NAfLHKVbHbo2II6RdSNaxlY7RQg3tMmX1JTxfE1pst99604vVxud1ZBUeyJ-Ee3N&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3532 G St, Merced"
+    },
+    {
+        "place_id": "ChIJietMP8BDkYARwZb4Iv27r-o",
+        "name": "Thai Cuisine II",
+        "distance": 3.1432743156126537,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJZw2cB1zLKut0A3eE_8LcYmbszShtq7-0xCBSdszbEgRSyLNdqIL0b5fyP3UM-ZdbUNY5isbPXyInGELARf3zqzg2f9I776RLSHc-XE6Xt9C-tfyrQNWVC-5tu-BgZfyHllSwj_RKf9bgTzzR2x5UoDAbFj8sQRembmF8v93GtIvrsU&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "779 E Yosemite Ave G, Merced"
+    },
+    {
+        "place_id": "ChIJE8y79qVDkYARQobKEpCugtE",
+        "name": "Los Panchos Mexican Seafood",
+        "distance": 4.4632304249880255,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJbkOwovAacc6yaJp8KHFFZWUfl6CMzBE0UxZG3uKzsmb2p2TG9qXR1cELEWXthkgQdyVzE60ndLCv-5F8XCk_qEgpmPFjzpJen3JhtDWsB51_TXpvtskSLVxtx5aN6Lh0iwh8IemYwu2MBPc9FJIk_abgt66XQZ9zjal8aa4E1ExQP0&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "2971 G St, Merced"
+    },
+    {
+        "place_id": "ChIJx4UR2blDkYARmuweibsILeA",
+        "name": "Jantz Cafe & Bakery",
+        "distance": 3.900903199246964,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJZpinFnbEsMpQ3vPtz4Y9uioj4K19ybCimTd9d6Nv2o8C_7Dn4AR7jff50Xgf5vz_xmWRH6FghguXIhTYx1GnJrCe2gppeTvadRAxA9AZEcS8IsZZoKxU7Pdsy6gI3hC9SLmipnVLnaCuSekPbdJNgE1HBJjjvLqMvHxM9pMMduTCml&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3361 G St, Merced"
+    },
+    {
+        "place_id": "ChIJ-QTzBIRDkYARFmUJR-Kyauk",
+        "name": "Guacamole Burrito",
+        "distance": 4.1132899170455515,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJYYQaAuf--rlkSjQmwRNdLSPGPJdqyGJoVM4VwA2KmYL7gw4TaCVLbSU1K0jCi6zJp4yYhxHZFsOXtuayiRnRNZTymbKbH_RVHybw83f1-_G4LXAQ6Hr-Bs_AjvEP5cxdXq68RCWnl77cZk5MIVBBnE506ytQryY-s2huAUgHZFwGFa&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3144 G St #145, Merced"
+    },
+    {
+        "place_id": "ChIJVZMfGc5DkYARvNxlhEEvEZE",
+        "name": "El Sabor de Oaxaca",
+        "distance": 4.491165261767114,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJafZ0RBX_p7ql1akukLCL-MxPLTI6InjUg_lQLz7DKbBkM1y1Cy9JH05MnqzzkPpC29aYlDqh41lq3tZWM1xMjnVf6cWf3ZHDT6KF0UNlrKEd2wmWu8sI4pR1QJBQBmCDaRFDwpUoUzAuDmGwxmcv9YVqkcCZUPYX-Ji-HQ_VSObzDF&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "900 Loughborough Dr suite e, Merced"
+    },
+    {
+        "place_id": "ChIJw2C48IpDkYARg8CIp3hpMYo",
+        "name": "Asian style kitchen",
+        "distance": 5.501190053465915,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJb0tHGXpV4E9sru6fubP-0ToSZebPT-G6IQyrVEhnbFWcE-lPrqXWTEgm8e4SDDMZ_ag34aqmD4QAafsyZ9LnHgeCBJ4aio9MEPSfWyQl4qrlLZXCPAozvTzQ5LHZn-7BqwDTz3SYLGI-pW8FFkMSME9nHnLQAFvfyWjvOrx6ylYhM_&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "601 E Main St, Merced"
+    },
+    {
+        "place_id": "ChIJ6QXkUMBDkYARPH3h1khYqIo",
+        "name": "Turmeric Indian Cuisine",
+        "distance": 3.1746300967941554,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJaIQs2gLr7DbLATfMO5Vqj3KL9q6B90HAE1rMlsyV6wyQ2KyyxIR3Pp6oXLbcgCs0i2IeqBLAIXVh5tfegVsagqXyFkpyh2BUCUHc52R_c6_LK8emwGbzgSFaYcBYkAy7c7v8fhwKfS7lt0qh14593OPonXGpncWAJ_Es30Kt_ErKwC&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "731 E Yosemite Ave ste c, Merced"
+    }
+]

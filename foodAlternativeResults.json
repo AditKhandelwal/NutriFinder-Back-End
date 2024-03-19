@@ -1,0 +1,249 @@
+[
+    {
+        "place_id": "ChIJ3T0THl9CkYARmpkoSA-CF8w",
+        "name": "Jack in the Box",
+        "menuItem": "Chicken Fajita Pita made with Whole Grain (no salsa)",
+        "Calories": "320",
+        "Protein": "27",
+        "price": "$6.59",
+        "distance": 9.959984761053391,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJa0zMhDSasK_z89596rh1hH8usG8z8yze6rs2CxIl6U8DPsfnA309w8ngei7H2yMM6bSKuMEt18PtiREzp2Uq4lByQgwH82398LKSqlmhzmtB1sj64rNIkcvje_Voad3YZ3H1JuZmcKs9EAMjw_NYcIXfqYCCagh7QXvod2n-kGzaIM&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1270 V St, Merced"
+    },
+    {
+        "place_id": "ChIJ3T0THl9CkYARmpkoSA-CF8w",
+        "name": "Jack in the Box",
+        "menuItem": "Sausage Biscuit",
+        "Calories": "430",
+        "Protein": "11",
+        "price": "$5.59",
+        "distance": 9.959984761053391,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJa0zMhDSasK_z89596rh1hH8usG8z8yze6rs2CxIl6U8DPsfnA309w8ngei7H2yMM6bSKuMEt18PtiREzp2Uq4lByQgwH82398LKSqlmhzmtB1sj64rNIkcvje_Voad3YZ3H1JuZmcKs9EAMjw_NYcIXfqYCCagh7QXvod2n-kGzaIM&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1270 V St, Merced"
+    },
+    {
+        "place_id": "ChIJ3T0THl9CkYARmpkoSA-CF8w",
+        "name": "Jack in the Box",
+        "menuItem": "Bacon, Egg & Cheese Biscuit",
+        "Calories": "410",
+        "Protein": "16",
+        "price": "$5.59",
+        "distance": 9.959984761053391,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJa0zMhDSasK_z89596rh1hH8usG8z8yze6rs2CxIl6U8DPsfnA309w8ngei7H2yMM6bSKuMEt18PtiREzp2Uq4lByQgwH82398LKSqlmhzmtB1sj64rNIkcvje_Voad3YZ3H1JuZmcKs9EAMjw_NYcIXfqYCCagh7QXvod2n-kGzaIM&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1270 V St, Merced"
+    },
+    {
+        "place_id": "ChIJ3T0THl9CkYARmpkoSA-CF8w",
+        "name": "Jack in the Box",
+        "menuItem": "Sourdough Breakfast Sandwich",
+        "Calories": "410",
+        "Protein": "20",
+        "price": "$8.59",
+        "distance": 9.959984761053391,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJa0zMhDSasK_z89596rh1hH8usG8z8yze6rs2CxIl6U8DPsfnA309w8ngei7H2yMM6bSKuMEt18PtiREzp2Uq4lByQgwH82398LKSqlmhzmtB1sj64rNIkcvje_Voad3YZ3H1JuZmcKs9EAMjw_NYcIXfqYCCagh7QXvod2n-kGzaIM&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1270 V St, Merced"
+    },
+    {
+        "place_id": "ChIJ3T0THl9CkYARmpkoSA-CF8w",
+        "name": "Jack in the Box",
+        "menuItem": "Chicken Fajita Pita made with Whole Grain (with salsa)",
+        "Calories": "330",
+        "Protein": "27",
+        "price": "$8.89",
+        "distance": 9.959984761053391,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJa0zMhDSasK_z89596rh1hH8usG8z8yze6rs2CxIl6U8DPsfnA309w8ngei7H2yMM6bSKuMEt18PtiREzp2Uq4lByQgwH82398LKSqlmhzmtB1sj64rNIkcvje_Voad3YZ3H1JuZmcKs9EAMjw_NYcIXfqYCCagh7QXvod2n-kGzaIM&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1270 V St, Merced"
+    },
+    {
+        "place_id": "ChIJC54NbYFFkYARfW1ta7ZC7cs",
+        "name": "McDonald's",
+        "menuItem": "Premium Grilled Chicken Classic Sandwich",
+        "Calories": "360",
+        "Protein": "27",
+        "price": "$5.99",
+        "distance": 10.26848423121183,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJbncfQ7UKWIAlrgJX3yiMBBfhmq4aKuLuj3Pn8HoMBgOMB4FpmyuhSh1_FKUZ3LJGTZok83i2EcqpdJqx4UzEgabjxWLtXipkDOH7pyfGNECYQShb6DZiRqNeRl8C3YiwJrdVsbDkMtTUcnS3i235_fTTFrR4hS8MKmj3-rNE-icOoN&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3140 Campus Pkwy, Merced"
+    },
+    {
+        "place_id": "ChIJC54NbYFFkYARfW1ta7ZC7cs",
+        "name": "McDonald's",
+        "menuItem": "Premium Grilled Chicken Club Sandwich",
+        "Calories": "460",
+        "Protein": "35",
+        "price": "$6.49",
+        "distance": 10.26848423121183,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJbncfQ7UKWIAlrgJX3yiMBBfhmq4aKuLuj3Pn8HoMBgOMB4FpmyuhSh1_FKUZ3LJGTZok83i2EcqpdJqx4UzEgabjxWLtXipkDOH7pyfGNECYQShb6DZiRqNeRl8C3YiwJrdVsbDkMtTUcnS3i235_fTTFrR4hS8MKmj3-rNE-icOoN&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3140 Campus Pkwy, Merced"
+    },
+    {
+        "place_id": "ChIJC54NbYFFkYARfW1ta7ZC7cs",
+        "name": "McDonald's",
+        "menuItem": "Premium Grilled Chicken Ranch BLT Sandwich",
+        "Calories": "380",
+        "Protein": "31",
+        "price": "$6.79",
+        "distance": 10.26848423121183,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJbncfQ7UKWIAlrgJX3yiMBBfhmq4aKuLuj3Pn8HoMBgOMB4FpmyuhSh1_FKUZ3LJGTZok83i2EcqpdJqx4UzEgabjxWLtXipkDOH7pyfGNECYQShb6DZiRqNeRl8C3YiwJrdVsbDkMtTUcnS3i235_fTTFrR4hS8MKmj3-rNE-icOoN&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3140 Campus Pkwy, Merced"
+    },
+    {
+        "place_id": "ChIJC54NbYFFkYARfW1ta7ZC7cs",
+        "name": "McDonald's",
+        "menuItem": "Southern Style Crispy Chicken Sandwich",
+        "Calories": "400",
+        "Protein": "24",
+        "price": "$5.49",
+        "distance": 10.26848423121183,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJbncfQ7UKWIAlrgJX3yiMBBfhmq4aKuLuj3Pn8HoMBgOMB4FpmyuhSh1_FKUZ3LJGTZok83i2EcqpdJqx4UzEgabjxWLtXipkDOH7pyfGNECYQShb6DZiRqNeRl8C3YiwJrdVsbDkMtTUcnS3i235_fTTFrR4hS8MKmj3-rNE-icOoN&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3140 Campus Pkwy, Merced"
+    },
+    {
+        "place_id": "ChIJC54NbYFFkYARfW1ta7ZC7cs",
+        "name": "McDonald's",
+        "menuItem": "Angus Chipotle BBQ Bacon Snack Wrap",
+        "Calories": "400",
+        "Protein": "21",
+        "price": "$5.79",
+        "distance": 10.26848423121183,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJbncfQ7UKWIAlrgJX3yiMBBfhmq4aKuLuj3Pn8HoMBgOMB4FpmyuhSh1_FKUZ3LJGTZok83i2EcqpdJqx4UzEgabjxWLtXipkDOH7pyfGNECYQShb6DZiRqNeRl8C3YiwJrdVsbDkMtTUcnS3i235_fTTFrR4hS8MKmj3-rNE-icOoN&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3140 Campus Pkwy, Merced"
+    },
+    {
+        "place_id": "ChIJC54NbYFFkYARfW1ta7ZC7cs",
+        "name": "McDonald's",
+        "menuItem": "Angus Deluxe Snack Wrap",
+        "Calories": "410",
+        "Protein": "20",
+        "price": "$5.29",
+        "distance": 10.26848423121183,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJbncfQ7UKWIAlrgJX3yiMBBfhmq4aKuLuj3Pn8HoMBgOMB4FpmyuhSh1_FKUZ3LJGTZok83i2EcqpdJqx4UzEgabjxWLtXipkDOH7pyfGNECYQShb6DZiRqNeRl8C3YiwJrdVsbDkMtTUcnS3i235_fTTFrR4hS8MKmj3-rNE-icOoN&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3140 Campus Pkwy, Merced"
+    },
+    {
+        "place_id": "ChIJC54NbYFFkYARfW1ta7ZC7cs",
+        "name": "McDonald's",
+        "menuItem": "Angus Mushroom & Swiss Snack Wrap",
+        "Calories": "430",
+        "Protein": "22",
+        "price": "$5.49",
+        "distance": 10.26848423121183,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJbncfQ7UKWIAlrgJX3yiMBBfhmq4aKuLuj3Pn8HoMBgOMB4FpmyuhSh1_FKUZ3LJGTZok83i2EcqpdJqx4UzEgabjxWLtXipkDOH7pyfGNECYQShb6DZiRqNeRl8C3YiwJrdVsbDkMtTUcnS3i235_fTTFrR4hS8MKmj3-rNE-icOoN&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3140 Campus Pkwy, Merced"
+    },
+    {
+        "place_id": "ChIJdwae7EtCkYARG08ufDONg1w",
+        "name": "Panera Bread",
+        "menuItem": "Bacon, Egg & Cheese on Artisan Ciabatta",
+        "Calories": "420",
+        "Protein": "22",
+        "price": "$6.29",
+        "distance": 7.687613650193614,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJY737zjRDm9elLoQWHYjjQtI3AV4prhn2O1llNvYIqF7f4qEn94__CVI0cVtlQuWT-XeSIUqnBlGNDkBmbzszD27hoJJNAY000sPavCXtOPVVlcCGEGFDcBBy2R2vbvyWJzURp5URHjV6GOoQaYdUuHauqzu9UjjO_I4ohqT48O5pk1&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3110 R St, Merced"
+    },
+    {
+        "place_id": "ChIJdwae7EtCkYARG08ufDONg1w",
+        "name": "Panera Bread",
+        "menuItem": "Bacon, Egg & Cheese on Brioche",
+        "Calories": "450",
+        "Protein": "23",
+        "price": "$6.29",
+        "distance": 7.687613650193614,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJY737zjRDm9elLoQWHYjjQtI3AV4prhn2O1llNvYIqF7f4qEn94__CVI0cVtlQuWT-XeSIUqnBlGNDkBmbzszD27hoJJNAY000sPavCXtOPVVlcCGEGFDcBBy2R2vbvyWJzURp5URHjV6GOoQaYdUuHauqzu9UjjO_I4ohqT48O5pk1&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3110 R St, Merced"
+    },
+    {
+        "place_id": "ChIJdwae7EtCkYARG08ufDONg1w",
+        "name": "Panera Bread",
+        "menuItem": "Egg & Cheese on Brioche",
+        "Calories": "380",
+        "Protein": "19",
+        "price": "$5.19",
+        "distance": 7.687613650193614,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJY737zjRDm9elLoQWHYjjQtI3AV4prhn2O1llNvYIqF7f4qEn94__CVI0cVtlQuWT-XeSIUqnBlGNDkBmbzszD27hoJJNAY000sPavCXtOPVVlcCGEGFDcBBy2R2vbvyWJzURp5URHjV6GOoQaYdUuHauqzu9UjjO_I4ohqT48O5pk1&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3110 R St, Merced"
+    },
+    {
+        "place_id": "ChIJdwae7EtCkYARG08ufDONg1w",
+        "name": "Panera Bread",
+        "menuItem": "Bacon, Scrambled Egg & Cheese on Brioche",
+        "Calories": "470",
+        "Protein": "24",
+        "price": "$6.29",
+        "distance": 7.687613650193614,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJY737zjRDm9elLoQWHYjjQtI3AV4prhn2O1llNvYIqF7f4qEn94__CVI0cVtlQuWT-XeSIUqnBlGNDkBmbzszD27hoJJNAY000sPavCXtOPVVlcCGEGFDcBBy2R2vbvyWJzURp5URHjV6GOoQaYdUuHauqzu9UjjO_I4ohqT48O5pk1&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3110 R St, Merced"
+    },
+    {
+        "place_id": "ChIJdwae7EtCkYARG08ufDONg1w",
+        "name": "Panera Bread",
+        "menuItem": "Scrambled Egg & Cheese on Brioche",
+        "Calories": "400",
+        "Protein": "21",
+        "price": "$5.19",
+        "distance": 7.687613650193614,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJY737zjRDm9elLoQWHYjjQtI3AV4prhn2O1llNvYIqF7f4qEn94__CVI0cVtlQuWT-XeSIUqnBlGNDkBmbzszD27hoJJNAY000sPavCXtOPVVlcCGEGFDcBBy2R2vbvyWJzURp5URHjV6GOoQaYdUuHauqzu9UjjO_I4ohqT48O5pk1&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3110 R St, Merced"
+    },
+    {
+        "place_id": "ChIJdwae7EtCkYARG08ufDONg1w",
+        "name": "Panera Bread",
+        "menuItem": "Scrambled Egg & Cheese on Artisan Ciabatta",
+        "Calories": "380",
+        "Protein": "20",
+        "price": "$5.19",
+        "distance": 7.687613650193614,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJY737zjRDm9elLoQWHYjjQtI3AV4prhn2O1llNvYIqF7f4qEn94__CVI0cVtlQuWT-XeSIUqnBlGNDkBmbzszD27hoJJNAY000sPavCXtOPVVlcCGEGFDcBBy2R2vbvyWJzURp5URHjV6GOoQaYdUuHauqzu9UjjO_I4ohqT48O5pk1&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "3110 R St, Merced"
+    },
+    {
+        "place_id": "ChIJZwk4HnZDkYARIbiAlJYm0Ys",
+        "name": "Starbucks",
+        "menuItem": "Impossible Breakfast Sandwich",
+        "Calories": "420",
+        "Protein": "21",
+        "price": "$5.75",
+        "distance": 9.305602681286338,
+        "photo_urls": [
+            "https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photoreference=ATplDJbkssytIN9m1a5uoJv4hE6C7HF0uWI2eSnjNs3v0HnYbtDF72ansUIZqHJwWR0OYieSrTyOAs_SKM5imBlxFGq0fU8v6N_tB6Ji4pQbFktm45jJjbB6TLnIJ-BF1YbMJNHxpB2pvekoSahrgPRWqOd7S9oWUrhGLS4MewiJdl3AD1Rh&key=AIzaSyCz3Pgl8mwi6_UWe8L7ehGypJ9gylMLPNw"
+        ],
+        "address": "1665 R St, Merced"
+    }
+]
